@@ -1,0 +1,33 @@
+body,html{
+    margin: 0;
+}
+.navigation{
+    display: flex;
+}
+.logo{
+    display: flex;
+}
+.logo_1{
+    height: auto;
+    width:500px;
+    padding: 10px;
+}
+.nav{
+    flex: 3;
+    justify-content: space-around;
+    padding-left: 200px !important;
+    align-items: center;
+    font-size:xx-large;
+    font-weight: 600;
+    color: rgb(75, 194, 75);
+}
+.nav:hover{
+    cursor: pointer;
+}
+.contact{
+    display: flex;
+    flex: 1;
+    justify-content:center;
+    align-items: center;
+
+}

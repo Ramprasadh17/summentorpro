@@ -1,0 +1,8 @@
+
+.images_container{
+    display: flex;
+    justify-content: center;
+    width: 1000px;
+}.images{
+width: 1000px;
+}

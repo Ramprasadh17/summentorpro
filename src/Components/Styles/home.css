@@ -1,0 +1,50 @@
+.video{
+    width: 100%;
+}
+.supporters {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.supporters img{
+    width: 10vw;
+    height: 10vw;
+    transition: opacity 0.3s;
+}
+
+
+.supporters img:hover {
+    opacity: 0.7; /* Reduce opacity on hover */
+  }
+.content_2_box{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.content_2{
+    display: flex;
+    justify-content: space-between;
+    width: 80vw;
+}
+.buttons{
+    display: flex;
+    justify-content: space-between;
+}
+.readmore{
+    width: 350px;
+    height: 50px;
+    background-color: rgb(75, 194, 75);
+    color: white;
+    font-size: larger;
+}
+.download{
+    width: 350px;
+    height: 50px;
+    color: rgb(75, 194, 75);
+    background-color: white;
+    font-size: larger;
+}
+.cover_img{
+    width: 50%;
+}
